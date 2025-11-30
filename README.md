@@ -1,6 +1,6 @@
 # Hi there, I'm Eileen 👋
 
-<img align="right" alt="Eileen" width="360" src="https://github.com/eileen/eileen/blob/main/assets/me.jpg?raw=true" />
+
 
 **Backend Developer • Python & Django Specialist • Clean Code Advocate**  
 she/her
